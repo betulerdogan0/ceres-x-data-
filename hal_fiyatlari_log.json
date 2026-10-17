@@ -1,0 +1,51 @@
+[
+  {
+    "tarih": "02.09.2026",
+    "portakal_fiyat": "44,78 TL/kg",
+    "portakal_kaynak": "haldefiyat.com, Finike (tahmini/eski veri, 19.06.2026)",
+    "nar_fiyat": "138,60 TL/kg",
+    "nar_kaynak": "haldefiyat.com (tahmini/eski veri, 21.08.2026)"
+  },
+  {
+    "tarih": "07.09.2026",
+    "portakal_fiyat": "44,78 TL/kg",
+    "portakal_kaynak": "haldefiyat.com, Finike (tahmini/eski veri, 19.06.2026)",
+    "nar_fiyat": "25-30 TL/kg",
+    "nar_kaynak": "tarimziraat.com (tahmini veri, tarih belirsiz)"
+  },
+  {
+    "tarih": "14.09.2026",
+    "portakal_fiyat": "15-30 TL/kg",
+    "portakal_kaynak": "batiakdeniztv.com, Antalya Toptancı Hali (09.09.2026)",
+    "nar_fiyat": "136-139 TL/kg",
+    "nar_kaynak": "tarimziraat.com, Türkiye ortalaması (tahmini/eski veri, 21.08.2026)"
+  },
+  {
+    "tarih": "21.09.2026",
+    "portakal_fiyat": "44,78 TL/kg",
+    "portakal_kaynak": "haldefiyat.com, Finike (tahmini/eski veri, 19.06.2026)",
+    "nar_fiyat": "42,50 TL/kg",
+    "nar_kaynak": "haldefiyat.com, Mersin bölgesi (14.09.2026)"
+  },
+  {
+    "tarih": "28.09.2026",
+    "portakal_fiyat": "15-30 TL/kg",
+    "portakal_kaynak": "Antalya Toptancı Hali, Batı Akdeniz TV (tahmini/eski veri, 09.09.2026)",
+    "nar_fiyat": "50 TL/kg",
+    "nar_kaynak": "üretici fiyatı, Antalya Ekspres/Körfez Gazetesi (tahmini/eski veri, 25.09.2026)"
+  },
+  {
+    "tarih": "05.10.2026",
+    "portakal_fiyat": "15-30 TL/kg",
+    "portakal_kaynak": "hal.gov.tr (02.10.2026)",
+    "nar_fiyat": "30-70 TL/kg",
+    "nar_kaynak": "hal.gov.tr (02.10.2026)"
+  },
+  {
+    "tarih": "12.10.2026",
+    "portakal_fiyat": "20-40 TL/kg",
+    "portakal_kaynak": "tahmini veri, tarih belirsiz",
+    "nar_fiyat": "65-100 TL/kg",
+    "nar_kaynak": "tahmini veri, tarih belirsiz"
+  }
+]
