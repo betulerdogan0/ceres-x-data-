@@ -47,5 +47,12 @@
     "portakal_kaynak": "tahmini veri, tarih belirsiz",
     "nar_fiyat": "65-100 TL/kg",
     "nar_kaynak": "tahmini veri, tarih belirsiz"
+  },
+  {
+    "tarih": "19.10.2026",
+    "portakal_fiyat": "10-35 TL/kg",
+    "portakal_kaynak": "karekod.org, Antalya Hal Fiyatları - sıkmalık (tahmini/eski veri, Temmuz 2026)",
+    "nar_fiyat": "150 TL/kg",
+    "nar_kaynak": "karekod.org, Antalya Hal Fiyatları (tahmini/eski veri, Temmuz 2026)"
   }
 ]
