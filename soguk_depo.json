@@ -1,19 +1,89 @@
 {
-  "son_guncelleme": null,
+  "son_guncelleme": "19.10.2026 09:02",
   "odalar": [
-    { "no": 1, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 2, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 3, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 4, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 5, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 6, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 7, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 8, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 9, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 10, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 11, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 12, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 13, "kapasite": 16, "dolu": 0, "urun": null },
-    { "no": 14, "kapasite": 17, "dolu": 0, "urun": null }
+    {
+      "no": 1,
+      "kapasite": 16,
+      "dolu": 5,
+      "urun": "Portakal"
+    },
+    {
+      "no": 2,
+      "kapasite": 16,
+      "dolu": 0,
+      "urun": null
+    },
+    {
+      "no": 3,
+      "kapasite": 16,
+      "dolu": 0,
+      "urun": null
+    },
+    {
+      "no": 4,
+      "kapasite": 16,
+      "dolu": 0,
+      "urun": null
+    },
+    {
+      "no": 5,
+      "kapasite": 16,
+      "dolu": 0,
+      "urun": null
+    },
+    {
+      "no": 6,
+      "kapasite": 16,
+      "dolu": 0,
+      "urun": null
+    },
+    {
+      "no": 7,
+      "kapasite": 16,
+      "dolu": 0,
+      "urun": null
+    },
+    {
+      "no": 8,
+      "kapasite": 16,
+      "dolu": 0,
+      "urun": null
+    },
+    {
+      "no": 9,
+      "kapasite": 16,
+      "dolu": 0,
+      "urun": null
+    },
+    {
+      "no": 10,
+      "kapasite": 16,
+      "dolu": 0,
+      "urun": null
+    },
+    {
+      "no": 11,
+      "kapasite": 16,
+      "dolu": 0,
+      "urun": null
+    },
+    {
+      "no": 12,
+      "kapasite": 16,
+      "dolu": 0,
+      "urun": null
+    },
+    {
+      "no": 13,
+      "kapasite": 16,
+      "dolu": 0,
+      "urun": null
+    },
+    {
+      "no": 14,
+      "kapasite": 17,
+      "dolu": 0,
+      "urun": null
+    }
   ]
 }
