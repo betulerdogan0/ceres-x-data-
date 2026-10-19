@@ -1,17 +1,4 @@
 {
-  "son_guncelleme": "19.10.2026 11:08",
-  "kayitlar": [
-    {
-      "tarih": "19.10.2026",
-      "sure_saat": 5,
-      "debi_litre_saat": 500
-    },
-    {
-      "tarih": "19.10.2026",
-      "sure_saat": 6.5,
-      "debi_litre_saat": 225,
-      "not": "silme testi",
-      "id": "5021b162-0920-4725-ab2e-33dde52aff44"
-    }
-  ]
+  "son_guncelleme": null,
+  "kayitlar": []
 }
