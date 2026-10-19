@@ -1,11 +1,4 @@
 {
-  "son_guncelleme": "19.10.2026 09:38",
-  "kayitlar": [
-    {
-      "tarih": "19.10.2026",
-      "sure_saat": 6.5,
-      "debi_litre_saat": 225,
-      "not": "test"
-    }
-  ]
+  "son_guncelleme": null,
+  "kayitlar": []
 }
