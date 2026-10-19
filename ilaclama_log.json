@@ -1,4 +1,13 @@
 {
-  "son_guncelleme": null,
-  "kayitlar": []
+  "son_guncelleme": "19.10.2026 11:23",
+  "kayitlar": [
+    {
+      "tarih": "19.10.2026",
+      "urun": "Portakal",
+      "etken_madde": "Eeeee",
+      "phi_gun": 12,
+      "id": "14233333-b5cb-4709-8d0e-b3a0bf5a8cbf",
+      "hasat_guvenli_tarih": "31.10.2026"
+    }
+  ]
 }
