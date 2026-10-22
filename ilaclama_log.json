@@ -1,4 +1,14 @@
 {
-  "son_guncelleme": "19.10.2026 11:23",
-  "kayitlar": []
+  "son_guncelleme": "22.10.2026 12:51",
+  "kayitlar": [
+    {
+      "tarih": "22.10.2026",
+      "urun": "Portakal",
+      "etken_madde": "Deneme",
+      "phi_gun": 21,
+      "not": "Deneme",
+      "id": "59d6b26b-8912-4a4b-82a9-9022b56ad06e",
+      "hasat_guvenli_tarih": "12.11.2026"
+    }
+  ]
 }
