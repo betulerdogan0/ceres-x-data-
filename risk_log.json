@@ -56,5 +56,6 @@
   {"tarih": "31.10.2026", "sicaklik_min": 13.1, "sicaklik_max": 22.7, "nem_yuzde": 76, "don_durumu": "yok", "catlama_durumu": "yok", "su_acigi_14g_mm": 2.15},
   {"tarih": "01.11.2026", "sicaklik_min": 12.6, "sicaklik_max": 21.7, "nem_yuzde": 71, "don_durumu": "yok", "catlama_durumu": "yok", "su_acigi_14g_mm": -1.425},
   {"tarih": "02.11.2026", "sicaklik_min": 12.8, "sicaklik_max": 23.4, "nem_yuzde": 70, "don_durumu": "yok", "catlama_durumu": "yok", "su_acigi_14g_mm": -2.8},
-  {"tarih": "03.11.2026", "sicaklik_min": 11.9, "sicaklik_max": 24.1, "nem_yuzde": 72, "don_durumu": "yok", "catlama_durumu": "yok", "su_acigi_14g_mm": -8.075}
+  {"tarih": "03.11.2026", "sicaklik_min": 11.9, "sicaklik_max": 24.1, "nem_yuzde": 72, "don_durumu": "yok", "catlama_durumu": "yok", "su_acigi_14g_mm": -8.075},
+  {"tarih": "04.11.2026", "sicaklik_min": 13, "sicaklik_max": 23.7, "nem_yuzde": 60, "don_durumu": "yok", "catlama_durumu": "yok", "su_acigi_14g_mm": -12.65}
 ]
